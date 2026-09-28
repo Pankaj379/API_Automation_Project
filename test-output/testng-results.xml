@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-26T15:05:50 IST" name="Default suite" finished-at="2026-09-26T15:05:57 IST" duration-ms="6817">
+    <groups>
+    </groups>
+    <test started-at="2026-09-26T15:05:50 IST" name="Default test" finished-at="2026-09-26T15:05:57 IST" duration-ms="6817">
+      <class name="myTara_API_Automation.MyTaraApiTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:myTara_API_Automation.MyTaraApiTest@7671cb68]" started-at="2026-09-26T15:05:50 IST" name="setup" finished-at="2026-09-26T15:05:50 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="login()[pri:0, instance:myTara_API_Automation.MyTaraApiTest@7671cb68]" started-at="2026-09-26T15:05:50 IST" name="login" finished-at="2026-09-26T15:05:54 IST" duration-ms="3872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getDashboard()[pri:1, instance:myTara_API_Automation.MyTaraApiTest@7671cb68]" started-at="2026-09-26T15:05:54 IST" name="getDashboard" finished-at="2026-09-26T15:05:56 IST" duration-ms="1882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDashboard -->
+        <test-method signature="updateFamilyMember()[pri:2, instance:myTara_API_Automation.MyTaraApiTest@7671cb68]" started-at="2026-09-26T15:05:56 IST" name="updateFamilyMember" finished-at="2026-09-26T15:05:57 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateFamilyMember -->
+      </class> <!-- myTara_API_Automation.MyTaraApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
